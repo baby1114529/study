@@ -1,2 +1,2 @@
 # study
-I am Lu Xinxin.
+I am a new programmer.
